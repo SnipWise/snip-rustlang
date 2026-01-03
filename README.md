@@ -34,7 +34,7 @@ docker compose -f .snip/compose.yml up -d
 ### Access the VSCode extension Interface
 
 - Cmd+Shift+P (Mac) or Ctrl+Shift+P (Windows/Linux)
-- Type `Call SNIP Streaming Service` and hit Enter
+- Type `Open Swise` and hit Enter
 
 You should now be able to interact with the Snip Rustlang project using the VSCode extension:
 
